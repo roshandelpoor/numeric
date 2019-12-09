@@ -1,8 +1,8 @@
 <?php
 
-	namespace numericPersian;
+	namespace numericpersian;
 	
-	class numericPersian {
+	class numericpersian {
 		
 		public function __construct(){
 			//
