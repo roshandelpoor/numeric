@@ -1,9 +1,15 @@
 # numeric
 change number english to persian for ui view
 
-#call function in class
 
-example :
+**get package by**
+
+composer require roshandelpoor/numeric_change_persian
+
+
+
+**example call function in class**
+
 
 <?php
 
