@@ -2,7 +2,7 @@
     "name": "roshandelpoor/numeric_change_persian",
     "description": "change number english to persian for ui view",
     "type": "library",
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {
 		"php": ">=5.2.0"
 	},
