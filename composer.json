@@ -1,5 +1,5 @@
 {
-    "name": "roshandelpoor/numericPersian",
+    "name": "roshandelpoor/numeric-persian",
     "description": "change number english to persian for ui view",
     "type": "library",
     "minimum-stability": "beta",
@@ -8,7 +8,7 @@
 	},
 	"autoload":{
 		"psr-4": {
-			"numericPersian\\": "src/"
+			"numericpersian\\": "src/"
 		}
 	}
 }
