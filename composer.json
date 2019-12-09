@@ -1,0 +1,14 @@
+{
+    "name": "roshandelpoor/numeric",
+    "description": "change number english to persian for ui view",
+    "type": "library",
+    "minimum-stability": "beta",
+    "require": {
+		"php": ">=5.2.0"
+	},
+	"autoload":{
+		"psr-4": {
+			"numeric\\": "src/"
+		}
+	}
+}
