@@ -1,5 +1,5 @@
 {
-    "name": "roshandelpoor/numeric-persian",
+    "name": "roshandelpoor/numeric-change-persian",
     "description": "change number english to persian for ui view",
     "type": "library",
     "minimum-stability": "beta",
